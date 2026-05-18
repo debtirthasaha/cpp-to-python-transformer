@@ -1,0 +1,25 @@
+# Python virtual environment (the local 4.7 GB venv)
+transformer/
+venv/
+env/
+.env
+
+# Caches and editor
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Trained model checkpoints (too large for GitHub; uploaded to Hugging Face)
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Datasets (XLCoST is downloaded separately)
+data/
+*.txt.gz

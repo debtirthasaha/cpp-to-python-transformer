@@ -25,7 +25,7 @@ All 12 components live in `model.py`. Built and tested incrementally — `test_s
 
 ## Trained checkpoint
 
-The `checkpoints/best_model.pt` file is 189 MB — too large for GitHub. Download it from Hugging Face: **[debtirthasaha/cpp-to-python-transformer](https://huggingface.co/debtirthasaha/cpp-to-python-transformer)**
+The `checkpoints/best_model.pt` file is 189 MB — too large for GitHub. Download it from Hugging Face: **[MR0b0t/cpp-to-python-transformer](https://huggingface.co/MR0b0t/cpp-to-python-transformer)**
 
 Place it at `checkpoints/best_model.pt`, then:
 
